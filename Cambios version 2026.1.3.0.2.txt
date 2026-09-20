@@ -1,0 +1,28 @@
+Cambios de la versión 2026.1.3.0.2
+Complemento Groq AI para NVDA
+=================================================
+
+Novedades:
+------------------------------
+- Describir imagen ahora captura SOLO la ventana donde estás (la foto, la
+  imagen de WhatsApp o el programa activo), no toda la pantalla. Groq se
+  enfoca únicamente en esa imagen y ya no describe el fondo del escritorio
+  ni otras ventanas.
+- En la conversación, cuando Groq responde, el cursor queda al inicio de
+  su respuesta: no hace falta subir con flechas hasta el principio; con
+  solo pulsar la flecha abajo empiezas a leer lo que respondió.
+
+Revisión:
+------------------------------
+- Se revisó el botón "Actualizar modelos desde Groq": la conexión con la
+  API de Groq funciona correctamente (la lista de modelos se descarga y
+  guarda bien con una clave válida). El botón se mantiene.
+
+Instalación:
+------------------------------
+1. Abre el archivo GrokAI-2026.1.3.0.2.nvda-addon con NVDA (pulsa
+   Enter sobre él o usa NVDA > menú Herramientas > Administrador de
+   complementos > Instalar).
+2. Reinicia NVDA si te lo pide.
+3. Si lo deseas, abre Configuración del complemento y pulsa "Actualizar
+   modelos desde Groq" para cargar la lista exacta de tu cuenta.
