@@ -1,0 +1,124 @@
+100 SUGERENCIAS PARA EL COMPLEMENTO GROQ AI
+==============================================
+
+Conversación y respuestas
+1. "Responder en voz" además de texto (casilla: Leer respuesta en voz alta).
+2. Detener la respuesta en curso con una tecla (NVDA+Escape al responder).
+3. Cancelar la búsqueda en internet si tarda mucho (botón Cancelar).
+4. Copiar la respuesta con formato o sin él (dos botones).
+5. Pegar la respuesta directamente en el programa activo (tecla).
+6. Abrir la respuesta en el navegador (botón "Abrir en web").
+7. Guardar la respuesta como audio en mp3 con la voz de Windows.
+8. Volver a escuchar la última respuesta (NVDA+Alt+R).
+9. Comparar dos respuestas lado a lado (botón Comparar).
+10. Responder en varios tamaños: corto, normal, detallado (menú de estilo).
+11. Elegir el idioma de la respuesta (siempre en español, o en el idioma de la pregunta).
+12. "Explicar como si tuviera 10 años" (botón de tono).
+13. Traducir la respuesta al instante (botón Traducir, integrado con full-translate).
+14. Sugerencias inteligentes según lo último que escribiste.
+15. Recordar tus gustos (casilla: aprenda de mis preferencias).
+
+Configuración
+16. Panel con pestañas (General, Modelos, Voz, Imágenes, Privacidad, Avanzado).
+17. Probar la clave API dentro de Configuración (botón Probar clave).
+18. Mostrar el consumo de tokens por mensaje y por día.
+19. Alerta al pasar el 80% del plan del día (sonido).
+20. Cuenta regresiva del límite de espera (reloj al recibir 429).
+21. Cambiar el atajo de cada comando desde Configuración (no solo gestos de NVDA).
+22. Elegir idioma del propio complemento (español, inglés, portugués).
+23. Tema de la ventana (claro u oscuro).
+24. Tamaño de letra del chat (ajuste de fuente).
+25. Respaldo de la configuración a un archivo y restauración.
+26. Exportar e importar la lista de modelos.
+27. Guardar varias claves API y alternar entre ellas.
+28. Configurar un máximo de tokens por respuesta (deslizador).
+29. Nivel de detalle de la investigación (rápida, normal, profunda).
+30. Modo "máxima velocidad" que desactiva investigación y análisis.
+
+Recordatorios
+31. Recordatorios recurrentes (cada día a las 7 am).
+32. Recordatorio con repetición (cada 10 minutos hasta confirmar).
+33. Recordatorios que abren el chat con la consulta lista.
+34. Posponer el aviso (Posponer 5 min, 10 min).
+35. Carpeta por defecto de los archivos de recordatorio.
+36. Alarma por hora con archivo de sonido personalizado.
+37. Ver recordatorios en el menú del sistema (bandeja de NVDA).
+38. Recordatorio hablado con la frase completa y duración configurable.
+
+Clima y datos en vivo
+39. Pronóstico para hoy y mañana (botón Pronóstico).
+40. Vista de clima por horas (6, 12 y 24 h).
+41. Alerta si va a llover hoy (sonido y mensaje al iniciar NVDA).
+42. Unidades configurables (grados, km/h o millas).
+43. Recordar la última ciudad consultada y ofrecerla por defecto.
+44. Comparar el clima de dos ciudades a la vez.
+45. Hora de salida y puesta del sol en tu ciudad.
+46. Consultar el clima y la hora con un solo gesto.
+
+Traducción e idioma
+47. Traducir un texto largo pegado en el chat.
+48. Corregir ortografía y gramática de un texto (modo Corrector).
+49. Sinónimos y definiciones de una palabra (botón Diccionario).
+50. Resumir un texto largo en 3 frases.
+51. Cambiar tono de un texto (formal, informal, cariñoso).
+52. Leer la respuesta en otro idioma con voz automática.
+53. Detectar el idioma automáticamente en la pregunta.
+
+Voz y lectura
+54. Ajustar velocidad y tono al leer respuestas (deslizadores).
+55. Leer la respuesta frase por frase (avanzar con una tecla).
+56. Señal sonora de inicio y fin de respuesta.
+57. Anunciar el progreso solo al final (sin interrumpir mientras piensa).
+58. Escuchar mientras se escribe (repetición de lo tecleado).
+59. Icono de "escribiendo" en la bandeja del sistema.
+60. Guardar el historial de voz con marca de tiempo.
+
+Imágenes y visión
+61. Describir la imagen con más detalle (nivel de detalle ajustable).
+62. Leer texto de la imagen (OCR) con la opción Describir imagen.
+63. Describir la última captura sin preguntar (tecla propia).
+64. Adjuntar varias imágenes a una sola pregunta.
+65. Copiar automáticamente la descripción al portapapeles.
+66. Comparar dos imágenes (diferencias o cuál es más clara).
+67. Hacer una segunda pregunta sobre la imagen ya descrita.
+
+Historial y archivos
+68. Buscar en el historial por palabra clave (campo Buscar).
+69. Ordenar historial por fecha, nombre o tamaño.
+70. Duplicar una conversación para experimentar.
+71. Combinar dos conversaciones en una.
+72. Exportar a PDF además de .txt.
+73. Exportar con fecha en el nombre del archivo por defecto.
+74. Carpeta de exportación configurable.
+75. Borrar todo el historial de una sola vez (doble confirmación).
+76. Recuperar conversaciones borradas (papelera interna).
+
+Privacidad y seguridad
+77. Modo privado que no guarda nada (casilla).
+78. Borrar la conversación completa con un atajo.
+79. Enmascarar la clave API en pantalla (mostrar puntos).
+80. No enviar nunca el texto de la pregunta a la búsqueda (casilla).
+81. Preguntar antes de enviar imágenes y capturas.
+82. Confirmación al exportar con datos personales.
+83. Limpiar el historial automáticamente cada N días.
+
+Integración con NVDA y el sistema
+84. Responder desde cualquier parte sin abrir la ventana (NVDA+Alt+Q).
+85. Atajo para describir la ventana activa al instante.
+86. Comando "preguntar y leer solo la primera frase".
+87. Integración con el menú de contexto (Menú contextual > Preguntar a Groq).
+88. Atajo global desde el escritorio con icono propio.
+89. Notificación del sistema (toast) cuando termine la respuesta.
+90. Abrir la última respuesta en el navegador con NVDA+Enter.
+91. Compatibilidad con el altavoz virtual de NVDA.
+92. Modo "no molestar" que silencia todos los anuncios.
+93. Botón para abrir el log de NVDA desde Configuración.
+
+Sonidos y extras
+94. Personalizar los pitidos de los recordatorios.
+95. Sonido de fin de respuesta distinto según el modelo.
+96. Sonido suave al conectar la búsqueda en internet.
+97. Vibración (en braille) al recibir un aviso.
+98. Perfil de sonidos por actividad (chat, clima, recordatorios).
+99. Reloj hablado con frase configurable en el gesto de clima.
+100. Asistente de inicio: primera vez guiado que configura clave, ciudad y modelo.
